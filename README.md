@@ -71,4 +71,7 @@ Agora é utilizado de outra maneira mais facil -
 > `O aluno ${nome} com idade ${idade} tirou a nota ${nota}`
 'O aluno vitor com idade 35 tirou a nota 5'
 
-
+// Outras coisas com a variavel s
+//s.lenght - quantos caracteres a string tem
+//s.toUpperCase() - tudo para maiuscula
+//s.toLowerCase() - tudo para minuscula
