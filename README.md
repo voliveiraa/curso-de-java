@@ -45,4 +45,6 @@ node -v
 // + para adição - para o javascript entender que ele é um numero para adição, é nescessario adicionar um (number + number)
 // + para concatenação - no caso da concatenação seria (string + string)
 
+# Conversão de number para string
 
+// existem duas maneiras String(n) ou n.toStrin()
