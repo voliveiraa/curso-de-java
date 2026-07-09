@@ -48,3 +48,27 @@ node -v
 # Conversão de number para string
 
 // existem duas maneiras String(n) ou n.toStrin()
+
+# Formatação de novas strings 
+
+// Por exemplo, eu crio uma variavel com a letra s (var s = 'JavaScript')
+
+Antigamente era utilizado - 
+
+> idade = 35
+35
+> nota = 5,5
+5
+> nome = "vitor"
+'vitor'
+> ' O aluno ' + nome + ' com idade' + idade + ' tirou a nota ' + nota
+' O aluno vitor com 35 tirou a nota 5'
+
+Agora é utilizado de outra maneira mais facil - 
+
+// Utilizando o ${s} entre crases 
+
+> `O aluno ${nome} com idade ${idade} tirou a nota ${nota}`
+'O aluno vitor com idade 35 tirou a nota 5'
+
+
