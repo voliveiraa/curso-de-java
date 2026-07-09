@@ -40,4 +40,9 @@ nvm install node
 
 node -v
 
-# 
+# para que serve o +
+
+// + para adição - para o javascript entender que ele é um numero para adição, é nescessario adicionar um (number + number)
+// + para concatenação - no caso da concatenação seria (string + string)
+
+
